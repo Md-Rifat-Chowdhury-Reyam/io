@@ -1,8 +1,7 @@
-package ReaderClass;
+package ReaderClass.Reader;
 
 import java.io.FileReader;
 import java.io.Reader;
-import java.lang.reflect.Array;
 import java.nio.CharBuffer;
 import java.util.Arrays;
 
