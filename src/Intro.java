@@ -23,7 +23,7 @@ public class Intro {
 
 //            //byte stream
 //            FileInputStream fileInput = new FileInputStream("output.txt"); //read the file byte by byte
-//            FileOutputStream fileOutput = new FileOutputStream("output.txt"); // write to the file;
+//            FileOutputStreamClass fileOutput = new FileOutputStreamClass("output.txt"); // write to the file;
 //
 //            int temp;
 //            while ((temp = fileInput.read()) != -1)
